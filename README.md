@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="github.jpg" align="middle"/>
 
 <!--
 **adititewari13/adititewari13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

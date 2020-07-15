@@ -21,9 +21,9 @@ Soon, I'll be uploading my Java Projects. Stay Tuned!
   <img src="http://i.imgur.com/tXSoThF.png" align="left" />
 </a-->
  <a href="https://www.twitter.com/adititewari13" style="font-size:24px" class="fa fa-twitter" target="_blank"></a>
-<a href="https://www.twitter.com/adititewari13">
+<!--a href="https://www.twitter.com/adititewari13">
   <img src="http://i.imgur.com/tXSoThF.png" align="left" />
-</a>
+</a-->
 
 <!--
 **adititewari13/adititewari13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

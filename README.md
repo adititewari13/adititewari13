@@ -2,7 +2,7 @@
 
 ![image for adititewari13](https://github.com/adititewari13/adititewari13/blob/master/github.jpg)
 
-#### I'm into-
+### I'm into-
 **Programming(C/C++, Java)**
 <br>
 **Cloud Computing**

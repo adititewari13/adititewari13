@@ -19,12 +19,12 @@ Soon, I'll be uploading my Java Projects. Stay Tuned!
  <a href="https://www.linkedin.com/in/adititewari/" target="_blank">
   <img src="https://github.com/adititewari13/adititewari13/blob/master/icons/linkedin.png">
 </a>
- <!--a href="https://www.twitter.com/adititewari13" target="_blank">
-  ![Image of twitter](https://github.com/adititewari13/adititewari13/blob/master/icons/twitter.png)
+ <a href="https://www.twitter.com/adititewari13" target="_blank">
+  <img src="https://github.com/adititewari13/adititewari13/blob/master/icons/twitter.png">
 </a>
  <a href="https://www.instagram.com/nightingale1311" target="_blank">
-  ![Image of instagram](https://github.com/adititewari13/adititewari13/blob/master/icons/instagram.png)
-</a-->
+  <img src="https://github.com/adititewari13/adititewari13/blob/master/icons/instagram.png">
+</a>
 
 
 <!--

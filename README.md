@@ -16,14 +16,14 @@ Soon, I'll be uploading my Java Projects. Stay Tuned!
 
 ### Find me on-
 
- <a href="https://www.linkedin.com/in/adititewari/">
-  <img src="icons/linkedin.png" align="left" />
+ <a href="https://www.linkedin.com/in/adititewari/" target="_blank">
+  ![Image of linkedin](https://github.com/adititewari13/adititewari13/blob/master/icons/linkedin.png)
 </a>
- <a href="https://www.twitter.com/adititewari13">
-  <img src="icons/twitter.png" align="left" />
+ <a href="https://www.twitter.com/adititewari13" target="_blank">
+  ![Image of twitter](https://github.com/adititewari13/adititewari13/blob/master/icons/twitter.png)
 </a>
- <a href="https://www.instagram.com/nightingale1311">
-  <img src="icons/instagram.png" align="left" />
+ <a href="https://www.instagram.com/nightingale1311" target="_blank">
+  ![Image of instagram](https://github.com/adititewari13/adititewari13/blob/master/icons/instagram.png)
 </a>
 
 

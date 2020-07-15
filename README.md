@@ -1,6 +1,17 @@
 <!---img src="github.jpg" align="middle"/--->
 
 ![image for adititewari13](https://github.com/adititewari13/adititewari13/blob/master/github.jpg)
+
+####I'm into-
+<br>
+**Programming(C/C++, Java)
+<br>
+Cloud Computing
+<br>
+System Design
+<br>
+App Development**
+<br>
 <!--
 **adititewari13/adititewari13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

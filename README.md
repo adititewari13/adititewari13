@@ -16,7 +16,7 @@ Soon, I'll be uploading my Java Projects. Stay Tuned!
 
 ### Find me on-
 
- <a href="https://www.linkedin.com/in/adititewari/" target="_blank">
+ <a href="https://www.linkedin.com/in/adititewari" target="_blank">
   <img src="https://github.com/adititewari13/adititewari13/blob/master/icons/linkedin.png">
 </a>
  <a href="https://www.twitter.com/adititewari13" target="_blank">

@@ -12,7 +12,6 @@
 **App Development**
 <br>
 <br>
-Soon, I'll be uploading my Java Projects. Stay Tuned!
 
 ### Find me on-
 
